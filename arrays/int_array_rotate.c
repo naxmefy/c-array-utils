@@ -1,4 +1,4 @@
-#include "int-array-rotate.h"
+#include "int_array_rotate.h"
 
 void rotate_right(int a[], int n, int d) {
   int t[n];
