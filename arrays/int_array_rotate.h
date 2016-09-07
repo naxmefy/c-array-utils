@@ -4,4 +4,4 @@
 void rotate_right(int[], int, int);
 void rotate_left(int[], int, int);
 
-#end if
+#endif
